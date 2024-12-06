@@ -1223,7 +1223,7 @@ a {
   font-size: clamp(14px, 1vw, 20px);
   line-height: 120%;
   color: var(--white);
-  max-width: 730px;
+  max-width: 700px;
   margin: 0;
 }
 @media (max-width: 1440px) {
